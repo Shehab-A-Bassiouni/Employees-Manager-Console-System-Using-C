@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699434105 source:c:\users\swesh\onedrive\desktop\new\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\swesh\OneDrive\Desktop\MyLibrary.h"
+
+1699285748 c:\users\swesh\onedrive\desktop\mylibrary.h
+	<windows.h>
+
+1699434105 source:c:\users\swesh\onedrive\desktop\new folder\new\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\swesh\OneDrive\Desktop\MyLibrary.h"
+
